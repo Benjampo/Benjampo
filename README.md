@@ -35,17 +35,6 @@ I'm a passionate fullstack developer with over 4 years of experience building ro
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [benjampo.ch](https://benjampo.ch) | My personal portfolio and dev showcase, designed with performance and clarity in mind | `Next.js`, `Tailwind CSS`, `Vercel` |
-| More coming soon... | Stay tuned or check my repos 👇 | |
-
----
-
 ### 📊 GitHub Stats
 
 ![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjampo&show_icons=true&theme=default)
