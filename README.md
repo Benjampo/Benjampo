@@ -37,7 +37,7 @@ I'm a passionate fullstack developer with over 4 years of experience building ro
 
 ### 📊 GitHub Stats
 
-![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjampo&show_icons=true&theme=default)
+[![Benjamin's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=benjampo&include_orgs=true)](https://github.com/benjampo/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjampo&layout=compact)
 
 ---
