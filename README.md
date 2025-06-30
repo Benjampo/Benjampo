@@ -2,10 +2,6 @@
 
 ## 💼 Fullstack Developer | Lausanne, Switzerland
 
-I'm a passionate fullstack developer with over 4 years of experience building robust, scalable, and elegant web applications. Curious by nature and driven by challenges, I specialize in modern JavaScript/TypeScript stacks, DevOps workflows, and cloud-native architectures.
-
----
-
 ### 🧰 Tech Toolbox
 
 **Frontend**  
@@ -22,8 +18,6 @@ I'm a passionate fullstack developer with over 4 years of experience building ro
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 
