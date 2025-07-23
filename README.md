@@ -43,7 +43,3 @@
 - 🐙 [github.com/benjampo](https://github.com/benjampo)
 - 📍 [Lausanne, Switzerland](https://www.google.com/maps?q=lausanne)
 
----
-
-> "Code is craft. Clean, scalable, and purposeful – that’s how I build."
-
